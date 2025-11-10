@@ -1,6 +1,6 @@
 # Live Demo.
 
-https://yasirnawaz3356004-source.github.io/Currency-Convertor/
+https://yasirnawaz3356004-source.github.io/Currency-Converter/
 
 <img src="Screenshot 2025-11-10 085039.png">
 
